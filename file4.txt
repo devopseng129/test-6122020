@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is the file in local
+=======
+this is the file created in remote.
+>>>>>>> 7b28a1899b8e7dbadb61d821f4687ce993e1eb6a
